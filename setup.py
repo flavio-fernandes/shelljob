@@ -40,5 +40,5 @@ setup(
 		'shelljob': [ base_dir + '/doc/*' ] 
 	},
 	license = 'GPLv3',
-	python_requires=">=3.6",
+	python_requires=">=3.7",
 )
